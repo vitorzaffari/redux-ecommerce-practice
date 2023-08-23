@@ -1,4 +1,4 @@
-![Redux](read_me/resux-toolkit.webp)
+![Redux](public/read_me/resux-toolkit.webp)
 
 # [English] Redux Toolkit App
 
