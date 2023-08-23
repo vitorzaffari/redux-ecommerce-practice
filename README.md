@@ -1,8 +1,31 @@
-# React + Vite
+![Redux](read_me/resux-toolkit.webp)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# [English] Redux Toolkit App
 
-Currently, two official plugins are available:
+This is a small shop app created using React and Redux Toolkit. The main goal of this project is to practice using Redux Toolkit. As a result, the app is intentionally kept simple and does not include many features. The primary focus here is on the implementation of Redux.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Features
+
+    Basic product listing
+    Shopping cart functionality
+    Redux state management
+
+    
+# [Português] App com Redux Toolkit
+
+Este é um pequeno aplicativo de loja criado usando React e Redux Toolkit. O principal objetivo deste projeto é praticar o uso do Redux Toolkit. Como resultado, o aplicativo é intencionalmente mantido simples e não inclui muitos recursos. O foco principal aqui está na implementação do Redux.
+
+
+Recursos
+
+    Listagem básica de produtos
+    Funcionalidade de carrinho de compras
+    Gerenciamento de estado com Redux
+
+
+![App](public/read_me/test.gif)
+
+  
+![App](public/read_me/test2.gif)  
+
